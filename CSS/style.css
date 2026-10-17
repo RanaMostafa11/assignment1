@@ -1,0 +1,141 @@
+body{
+    background-color: #F4F7FB;
+    margin: 0;
+    padding: 26px;
+}
+
+/* header Section */
+
+header{
+    background-color: #18487B;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+header button{
+    background-color: #2A5685;
+    color: white;
+    padding: 10px ;
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.color-h{
+    color: #A6DCFF;
+}
+
+/* about me section */
+
+.title{
+    color: #18487B ;
+}
+.color-a{
+    color: #0B65AD;
+}
+.line{
+    border: 1px solid #A6DCFF;
+}
+#about{
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#about a {
+    background-color: #0B65AD;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border: 0;
+    border-radius: 10px;
+    display: inline-block;
+   
+}
+#about img{
+float: left;
+width: 100px;
+height: 100px;
+border: 3px solid #F0F6FE;
+border-radius: 50%;
+margin-right: 30px;
+}
+
+.clear-fix{
+    clear:both;
+}
+
+/* my skills section */
+
+#skills {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#skills .card{
+    background-color: #FAFCFF;
+    float:left;
+    width: 20%;
+    height: 120px;
+    margin: 0 10px 0 ;
+    padding-left: 10px;
+    border: 2px solid #F0F6FE;
+    border-radius: 10px; 
+}
+
+/* Experience section */
+
+#experience{
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px 20px 50px 20px;
+    border-radius: 10px;
+}
+#experience .card{
+    background-color: #F4F7FB;
+    border: 2px solid #F8FAFC;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+#experience img{
+    background-color: white;
+    float: left;
+    width: 70px;
+    height: 70px;
+    border: 2px solid #F0F6FE;
+    border-radius: 10px;
+    margin: 10px 10px;
+    }
+
+    /* Contact Me Section */
+#contact{
+    background-color: #18487B;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#contact a{
+    background-color: #2A5685;
+    color: white;
+    padding: 10px ;
+    margin: 5px 5px;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+/* footer section */
+footer{
+    background-color: #071A35;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
